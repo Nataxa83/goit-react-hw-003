@@ -1,0 +1,15 @@
+.input {
+    margin-bottom: 30px;
+  }
+  
+  .label {
+    font-size: 20px;
+    border-radius: 5px;
+  }
+  
+  .filterInput {
+    width: 400px;
+    height: 40px;
+    font-size: 17px;
+  }
+  

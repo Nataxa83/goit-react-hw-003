@@ -1,0 +1,37 @@
+.card {
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: rgb(247, 247, 227);
+  width: 400px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 15px;
+  margin-top: 20px;
+}
+.info {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-left: 15px;
+  font-size: 20px;
+}
+
+.name {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.number {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.btn {
+  margin-right: 15px;
+  font-size: 20px;
+  height: 40px;
+}
